@@ -55,12 +55,10 @@ ai-engineer/
 │   │   ├── 05p CNN and Vision Transformers Hybrid - PyTorch.ipynb
 │   │   └── 06 Evaluation - CNN and Vision Transformers Hybrids.ipynb
 │   │
-│   ├── 🗂️ Development Files
-│   │   ├── dev/                                # Saved models & additional notebooks
-│   │   │   ├── *.keras                        # Keras model files (excluded from git)
-│   │   │   ├── *.pth                          # PyTorch model files (excluded from git)
-│   │   │   └── *.ipynb                        # Additional lab notebooks
-│   │   └── image_dataSAT/                     # Dataset (excluded from git)
+│   ├── 🗂️ Model Files (Local Only)
+│   │   ├── *.keras                            # Keras model files (excluded from git)
+│   │   ├── *.pth                              # PyTorch model files (excluded from git)
+│   │   └── images_dataSAT/                    # Dataset (excluded from git)
 │   │       ├── class_0_non_agri/              # Non-agricultural images (3,000 files)
 │   │       └── class_1_agri/                  # Agricultural images (3,000 files)
 │   │
@@ -106,23 +104,26 @@ ai-engineer/
    jupyter lab
    ```  
    
-📊 Dataset
+## 📊 Dataset
 
 The project uses a satellite image dataset with two classes:
-	•	Class 0: Non-agricultural land (3,000 images)
-	•	Class 1: Agricultural land (3,000 images)
+- **Class 0**: Non-agricultural land (3,000 images)
+- **Class 1**: Agricultural land (3,000 images)
 
-Images are stored in the satellite-image-classification/image_dataSAT/ directory.
+Images are stored in the `satellite-image-classification/images_dataSAT/` directory.
 
-📚 Learning Objectives
+> **Note**: The dataset and model files are excluded from git due to size constraints but are present locally for development.
+
+## 📚 Learning Objectives
 
 After completing this project, you will be able to:
-	1.	Data Management: Efficiently handle large satellite image datasets
-	2.	Model Development: Build and train CNN and ViT models from scratch
-	3.	Framework Proficiency: Work with both Keras/TensorFlow and PyTorch
-	4.	Advanced Architectures: Implement and understand hybrid CNN-ViT models
-	5.	Performance Analysis: Evaluate models using multiple metrics and visualizations
-	6.	Comparative Analysis: Compare different approaches and frameworks
+
+1. **Data Management**: Efficiently handle large satellite image datasets
+2. **Model Development**: Build and train CNN and ViT models from scratch
+3. **Framework Proficiency**: Work with both Keras/TensorFlow and PyTorch
+4. **Advanced Architectures**: Implement and understand hybrid CNN-ViT models
+5. **Performance Analysis**: Evaluate models using multiple metrics and visualizations
+6. **Comparative Analysis**: Compare different approaches and frameworks
 
 ## 🔬 Notebooks Overview
 
