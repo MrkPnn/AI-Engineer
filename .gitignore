@@ -1,52 +1,42 @@
-# Virtual Environment
+# Model files (too large for GitHub)
+*.keras
+*.pth
+*.h5
+*.pkl
+*.joblib
+
+# Dataset files (too large for GitHub)
+satellite-image-classification/images_dataSAT/
+satellite-image-classification/image_dataSAT/
+
+# Virtual environment
 venv/
 env/
-ENV/
+.venv/
 
-# Python
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
+*.pyc
+*.pyo
+*.pyd
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IDE
+# IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS
+# OS files
 .DS_Store
 Thumbs.db
 
-# Data files (if large)
-*.csv
-*.json
-*.pkl
-*.h5
-*.hdf5
+# Large datasets (if any)
+*.zip
+*.tar.gz
+*.rar
 
-# Model files
-*.pth
-*.pt
-*.ckpt
-*.safetensors
+# Logs
+*.log
