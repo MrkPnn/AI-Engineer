@@ -128,20 +128,20 @@ After completing this project, you will be able to:
 
 ### 📊 **Data Loading & Preparation**
 | Notebook | Description | Framework |
-|----------|-------------|-----------|
+|:---------|:------------|:----------|
 | [`01 Data Loading - Memory vs Generator.ipynb`](satellite-image-classification/01%20Data%20Loading%20-%20Memory%20vs%20Generator.ipynb) | Compare memory-based vs generator-based data loading strategies | Both |
 | [`02k Data Preparation - Keras.ipynb`](satellite-image-classification/02k%20Data%20Preparation%20-%20Keras.ipynb) | Keras-specific preprocessing and augmentation | Keras/TensorFlow |
 | [`02p Data Preparation - PyTorch.ipynb`](satellite-image-classification/02p%20Data%20Preparation%20-%20PyTorch.ipynb) | PyTorch-specific preprocessing and augmentation | PyTorch |
 
 ### 🤖 **Model Development**
 | Notebook | Description | Framework |
-|----------|-------------|-----------|
+|:---------|:------------|:----------|
 | [`03k Model Development and Evaluation - Keras.ipynb`](satellite-image-classification/03k%20Model%20Development%20and%20Evaluation%20-%20Keras.ipynb) | CNN model development and training | Keras/TensorFlow |
 | [`03p Model Development and Evaluation - PyTorch.ipynb`](satellite-image-classification/03p%20Model%20Development%20and%20Evaluation%20-%20PyTorch.ipynb) | CNN model development and training | PyTorch |
 
 ### 📈 **Evaluation & Advanced Architectures**
 | Notebook | Description | Framework |
-|----------|-------------|-----------|
+|:---------|:------------|:----------|
 | [`04 Evaluation - Keras and PyTorch Models.ipynb`](satellite-image-classification/04%20Evaluation%20-%20Keras%20and%20PyTorch%20Models.ipynb) | Performance comparison between frameworks | Both |
 | [`05k CNN and Vision Transformers Hybrid - Keras.ipynb`](satellite-image-classification/05k%20CNN%20and%20Vision%20Transformers%20Hybrid%20-%20Keras.ipynb) | CNN-ViT hybrid model implementation | Keras/TensorFlow |
 | [`05p CNN and Vision Transformers Hybrid - PyTorch.ipynb`](satellite-image-classification/05p%20CNN%20and%20Vision%20Transformers%20Hybrid%20-%20PyTorch.ipynb) | CNN-ViT hybrid model implementation | PyTorch |
@@ -167,7 +167,7 @@ After completing this project, you will be able to:
 ## 📈 Evaluation Metrics
 
 | Metric | Description | Purpose |
-|--------|-------------|---------|
+|:-------|:------------|:--------|
 | **Accuracy** | Overall correctness of predictions | General model performance |
 | **Precision** | Correctness of positive predictions | False positive control |
 | **Recall** | Ability to detect positive cases | False negative control |
@@ -214,11 +214,3 @@ These Jupyter notebooks were created as part of the [IBM AI Engineering Professi
 - **This repository** contains only my personal solutions, code implementations, and notes
 - **All course materials** and related intellectual property remain the copyright of Coursera and IBM
 - **Not intended for production use** - Educational demonstration only
-
----
-
-<div align="center">
-
-**⭐ If you found this helpful, please give it a star! ⭐**
-
-</div>
