@@ -5,7 +5,9 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.x-red)](https://pytorch.org)
 
-This repository contains my project work developed as part of the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.  
+This repository contains my project work developed as part of the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.
+
+## Description
 
 A comprehensive deep learning project for satellite image classification using both Keras/TensorFlow and PyTorch frameworks. The project covers the full workflow for classifying agricultural vs non-agricultural land from satellite imagery using Convolutional Neural Networks (CNNs), Vision Transformers (ViTs), and hybrid CNN-ViT models.
 
@@ -203,13 +205,18 @@ This project is part of an AI Engineer learning path. Feel free to:
 
 ---
 
+## 🙏 Acknowledgements
+
+- This project was completed as part of the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera
+- Special thanks to the instructors and the Coursera team for providing excellent course materials
+- The course exercises and instructions are provided by Coursera/IBM
+- This repository contains my personal solutions, code implementations, and notes created while completing the course
+
 ## 📄 License & Disclaimer
 
 This project is provided for **educational purposes only** as part of the AI Engineer learning curriculum. The code, models, and notebooks are shared to demonstrate skills in deep learning, computer vision, and machine learning engineering.
 
 ### ⚠️ Important Notice
-
-These Jupyter notebooks were created as part of the [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) on Coursera.
 
 - **Course materials and instructions** are provided by Coursera/IBM
 - **This repository** contains only my personal solutions, code implementations, and notes
