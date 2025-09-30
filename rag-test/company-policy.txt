@@ -1,0 +1,114 @@
+Company Policy Document
+
+1. Introduction
+
+This document outlines the policies of Acme Innovations Ltd., a technology company specializing in software development, artificial intelligence, and digital services. The goal of this document is to:
+• Ensure that all employees, contractors, and partners are aligned with company values and legal obligations.
+• Provide clear expectations for behavior, performance, and collaboration across different teams and regions.
+• Safeguard customer trust by setting standards for data protection, compliance, and ethical operations.
+• Serve as a living document, reviewed annually, that reflects both evolving industry practices and regulatory requirements.
+
+
+2. Code of Conduct
+• Employees must act with integrity in all business dealings, including communication with customers, vendors, and government officials. Dishonesty, misrepresentation, or concealment of facts that could harm the company’s reputation is prohibited.
+• Professionalism is expected in both verbal and written communication. Emails, chat messages, and reports should be respectful, concise, and free of offensive language.
+• Personal use of company equipment (such as laptops or mobile phones) should be limited and must not interfere with business productivity. Unauthorized installation of software or applications is prohibited.
+• Gifts or favors from clients, suppliers, or partners exceeding a modest value (e.g., $50) must be disclosed to HR and approved by management.
+
+
+
+3. Data Privacy & Security
+• Company laptops, desktops, and mobile devices must be protected with strong passwords, biometric locks (if available), and automatic screen locks after inactivity.
+• Sensitive files must be stored on secure servers, not on local hard drives or personal cloud accounts. Employees may not transfer work-related files to USB drives or personal email accounts.
+• Employees must use multi-factor authentication (MFA) when accessing business-critical applications.
+• Any suspected phishing emails, malware infections, or data leaks must be reported to the IT Security Team immediately. Delayed reporting could result in disciplinary action.
+• Employees handling customer data must complete mandatory annual training on data privacy laws and security best practices.
+
+
+
+4. Remote Work Policy
+• Remote employees must ensure that their work environment is secure and professional. Conducting video calls in public spaces (cafés, airports, etc.) where confidential information could be overheard is discouraged.
+• Employees should ensure that their internet connection is stable and that company-provided devices are used rather than personal devices to access sensitive files.
+• Remote employees must remain available during agreed working hours through company-approved communication tools (e.g., Microsoft Teams, Slack, or Zoom). “Do Not Disturb” modes should only be used for focused work or pre-scheduled tasks.
+• Home offices should meet basic ergonomic standards. The company will provide guidance and may contribute financially to equipment such as office chairs, desks, and monitors.
+
+
+
+5. Working Hours & Leave
+• Employees are expected to be logged in and available from 9:00 AM to 5:30 PM local time. Exceptions (e.g., flexible schedules) must be approved by a manager and documented with HR.
+• Breaks are encouraged to maintain productivity and well-being. Employees should take at least one 30-minute lunch break and two shorter breaks during the day.
+• Unused annual leave may be carried over to the next calendar year up to a maximum of 5 days. Any additional carry-over requires executive approval.
+• All leave requests must be submitted via the HR system at least 10 working days in advance, unless in the case of emergencies.
+• Employees who are late more than three times in a month without valid reason may be subject to review by HR.
+
+
+
+6. Use of Artificial Intelligence & Machine Learning
+• Employees working with AI tools must document the datasets, models, and decision-making processes used. This documentation should be available for audit if required.
+• Bias testing is mandatory for any AI model deployed into production. Results should be recorded and reviewed quarterly to ensure fairness and compliance with ethical AI principles.
+• Generative AI tools may not be used to create content that violates intellectual property laws, promotes misinformation, or undermines the company’s reputation.
+• Employees must disclose when AI has been used to generate documents, code, or marketing materials, especially if shared externally.
+• AI models must undergo security testing before integration into customer-facing products to ensure they cannot be manipulated or exploited.
+
+
+
+7. Compliance & Ethics
+• Employees must not engage in insider trading or use company information for personal financial gain.
+• All business records, including contracts, invoices, and financial statements, must be accurate, complete, and free of misrepresentation.
+• Any conflicts of interest (such as working for a competitor, having family employed by a supplier, or holding significant shares in a business partner) must be disclosed in writing.
+• Whistleblowing protections are in place. Employees who report unethical or illegal practices in good faith will not face retaliation.
+
+
+
+8. Health & Safety
+• All employees must complete annual workplace safety training, which covers fire safety, first aid basics, and emergency evacuation procedures.
+• Office workstations must be set up ergonomically to prevent strain injuries. HR can arrange assessments upon request.
+• Any accidents or workplace injuries, no matter how minor, must be reported within 24 hours.
+• Employees are prohibited from consuming alcohol or illegal substances during working hours. Prescription medication that may affect alertness must be disclosed to a supervisor if it impacts performance.
+• The company is committed to mental health awareness. Employees may access counseling services through the Employee Assistance Program (EAP).
+
+
+
+9. Communication Standards
+• Internal communication should prioritize clarity and accessibility. Avoid excessive jargon in cross-departmental communication.
+• Sensitive discussions should take place through secure, company-approved communication channels, not personal messaging apps.
+• Employees must maintain professionalism on social media when referencing the company. Personal opinions should not be presented as official company statements.
+• External communications, including press releases, blog posts, and interviews, must be reviewed and approved by the Communications Department before publication.
+
+
+
+10. Training & Development
+• Employees are encouraged to pursue professional development through training, workshops, or certifications. The company may cover costs if the training is directly relevant to the employee’s role.
+• Managers are responsible for ensuring team members have access to learning resources and regular performance feedback.
+• Employees must complete mandatory training programs on cybersecurity, compliance, and workplace behavior annually.
+• Participation in industry conferences, meetups, and events is supported, provided employees represent the company professionally.
+
+
+
+11. Environmental Responsibility
+• Employees must minimize unnecessary printing and prioritize digital documents. Where printing is required, double-sided printing is encouraged.
+• Energy consumption should be reduced by turning off lights, monitors, and equipment when not in use.
+• Company-sponsored travel should prioritize environmentally friendly options such as trains or carpooling, where feasible.
+• Waste should be recycled appropriately, with separate bins provided for paper, plastics, and electronics.
+
+
+
+12. Disciplinary Actions
+
+Violations of this policy may result in one or more of the following measures, depending on severity and frequency:
+• Verbal counseling with a documented improvement plan.
+• Formal written warnings placed in the employee’s personnel file.
+• Temporary suspension with or without pay.
+• Permanent termination of employment.
+• Legal action, if the violation involves fraud, theft, or breaches of law.
+
+
+
+13. Review & Updates
+
+This document will be reviewed annually by HR, Legal, and senior leadership. Updates will be communicated to all staff by email and discussed in quarterly team meetings. Employees are responsible for reading updated versions and confirming acknowledgment in the HR system.
+
+Effective Date: January 1, 2025
+Next Review Date: January 1, 2026
+
+
