@@ -14,6 +14,10 @@ venv/
 env/
 .venv/
 
+# Course materials (not part of public portfolio)
+chat-with-your-documents/
+docs/
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
